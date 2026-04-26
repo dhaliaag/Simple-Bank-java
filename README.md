@@ -1,4 +1,4 @@
-# 🌸 Simple Bank Java
+# 🦢 Simple Bank Java
 
 A simple banking system made in Java as part of my programming journey.
 
